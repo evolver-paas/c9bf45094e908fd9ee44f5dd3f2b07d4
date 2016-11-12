@@ -1,23 +1,6 @@
 <?php
 
-// Retest started 04:43 PM IST
-// Retest started 04:45 PM IST
-// Retest started 04:50 PM IST
-// Retest started 04:52 PM IST
-// Retest started 04:54 PM IST
-// Retest started 04:56 PM IST
-// Retest started 06:20 PM IST
-// Retest started 06:24 PM IST
-// Retest started 06:31 PM IST
-// Retest started 06:38 PM IST
-// Retest started 08:34 PM IST
-// Retest started 08:40 PM IST
-// Retest started 08:41 PM IST
-// Retest started 08:45 PM IST
-// Retest started 08:47 PM IST
-// Retest started 08:50 PM IST
-// Retest started 09:02 PM IST
-// Retest started 09:03 PM IST
+// Retest started 12-11-2016 01:51 PM IST
 
 /**
  * @file
