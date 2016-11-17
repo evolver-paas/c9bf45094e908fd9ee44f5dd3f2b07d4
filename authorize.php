@@ -1,10 +1,5 @@
 <?php
-// Custome 
-// Authorization Updates 
-// Authorization Updates 2
-// Authorization Updates 3
-// Authorization Updates 4
-// Authorization Updates 5
+// Custome update 1
 
 /**
  * @file
